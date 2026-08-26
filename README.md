@@ -448,6 +448,7 @@ Here, I regularly upload solutions to problems I solve on [LeetCode](https://lee
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Shahilasulthana/Leetcode/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/Shahilasulthana/Leetcode/tree/master/0178-rank-scores) |
 | [0577-employee-bonus](https://github.com/Shahilasulthana/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Shahilasulthana/Leetcode/tree/master/0584-find-customer-referee) |
 | [1161-project-employees-i](https://github.com/Shahilasulthana/Leetcode/tree/master/1161-project-employees-i) |
